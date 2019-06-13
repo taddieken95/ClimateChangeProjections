@@ -1,6 +1,8 @@
 # ClimateChangeProjections
 
-An embeddable map that shows climate change projections. How hot will it be by 2070 if we don't do something about it? Accessible at [https://climatechange.codeforafrica.org/](https://climatechange.codeforafrica.org/).
+An embeddable map that shows climate change projections. How hot will it be by 2070 if we don't do something about it.
+
+The map can be accessed at [https://climatechange.codeforafrica.org/](https://climatechange.codeforafrica.org/).
 
 ## Contributing
 
